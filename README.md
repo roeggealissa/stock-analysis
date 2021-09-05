@@ -18,4 +18,10 @@ The first thing to note is we are using VBA macros. Since we've developed this o
 
 Our first analysis was on DQ, the stock the client had particular interest in. Our first step was to determine the total volume of DQ traded in a given time, as the client believes a highly traded stock will have a price reflecting it's true value. We start by creating a loop to look through the 2018 data for any trade that has the DQ ticker symbol. For any row that contains it, we take the total volume traded that day and add it to our own analysis sheet. We find the total volume of DQ stock traded in 2018 is 107,873,900 shares. Next we want to check the yearly return, or the return a client would have if they bought shares at the beginning of the year and did not sell until the end. We added conditionals to the volume analysis code to look for individual rows of DQ stock to determine starting and ending prices. From this we can see DQ stock dropped 63% in 2018.
 
-As Steve wanted to diversify his clients portfolio, we analyzed 12 stocks in addition to DQ. The original code to analyze the multiple stocks is based off the DQ analysis code, but with an extra for loop nesting the volume and return code to loop through each stock. We also added some formatting code to allow the sheet to be easier to read.
+As Steve wanted to diversify his clients portfolio, we analyzed 12 stocks in addition to DQ. The original code to analyze the multiple stocks is based off the DQ analysis code, but with an extra for loop nesting the volume and return code to loop through each stock. We also added some formatting code to allow the sheet to be easier to read. The hard code of the year was removed and instead replaced with a user input so the macro can be adapted to additional years if needed. The output is each ticker symbol with associated total yearly traded volume and yearly return. Finally two buttons were added, one to clear the sheet and one to run the analysis code from the sheet directly.
+
+### Conclusions
+
+##### Stock performance in 2017 and 2018
+
+
