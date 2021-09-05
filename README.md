@@ -34,3 +34,9 @@ From this we can see there's a clear difference between stock performance in 201
 ![Unrefractored code](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_No_Refractoring.png)
 ![Refractored performance for 2017](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_Challenge_2017.png)
 ![Refractored performance for 2018](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_Challenge_2018.png)
+
+The first image is one run time for the unrefactored code to obtain the total volume traded and yearly return for all twelve stocks. The average time is around .68 seconds. The following two images are the refactored code performance on all twelve stocks for years 2017 and 2018 respectively. The average run time of the refactored code is .11 seconds regardless of year. While this doesn't really make a difference at this scale as both are sub second, if we were going to do this for a larger quantity of stocks the refactored code is clearly more efficent.
+
+### Refactoring
+
+##### General Advantages and Disadvantages
