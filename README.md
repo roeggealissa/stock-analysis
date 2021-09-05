@@ -26,3 +26,11 @@ As Steve wanted to diversify his clients portfolio, we analyzed 12 stocks in add
 
 ![Stock Volume and Return in 2017](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/2017_Return.png)
 ![Stock Volume and Return in 2018](https://github.com/roeggealissa/stock-analysis/blob/bf2ee50c3b234822dda804a6a2ee9e01cb5b6b97/2018_Return.png)
+
+From this we can see there's a clear difference between stock performance in 2017 and 2018. In 2017 the only company with a negative yearly return was TerraForm Power Operating LLC (TERP) which continued it's negative slump in 2018. In 2018 every stock except ENPH and RUN (Enphase Energy and Sunrun respectively) had negative yearly returns. We can't make a comment about the change in total volume traded since we are missing the background information about the total number of outstanding shares. If outside forces caused a stock decline in 2018, we'll need additional years of data and data for non alternative energy companies to see if these stocks are more affected by market shifts or if they were hit equally to other stocks. From there we could begin to make a recommendation for what stocks Steve should obtain for his clients portfolio.
+
+##### Code perfomance
+
+![Unrefractored code](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_No_Refractoring.png)
+![Refractored performance for 2017](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_Challenge_2017.png)
+![Refractored performance for 2018](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/VBA_Challenge_2018.png)
