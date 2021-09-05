@@ -24,4 +24,4 @@ As Steve wanted to diversify his clients portfolio, we analyzed 12 stocks in add
 
 ##### Stock performance in 2017 and 2018
 
-
+![Stock Volume and Return in 2017](https://github.com/roeggealissa/stock-analysis/blob/43e9773fedf4db6ac02195fc7ee8b7680c0589a3/2017_Return.png)
