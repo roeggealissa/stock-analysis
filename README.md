@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The client, Steve, is a recent finance graduate. His first clients, his parents, are keen to use his services to purchase stocks in alternative energy companies. Their primary interest is DQ stock, but Steve would like to know more about that stock and other alternative energy stocks to create a robust diverse portfolio. Using VBA scripts we will analysis several stocks for Steve to determine if DQ should be part of his clients portfolio and find other possible stocks that the client may want to invest in.
+Using VBA scripts we will analysis several stocks to determine if the stock DQ should be part of a portfolio and find other possible stocks that we may want to invest in.
 
 ### Data Analysis
 
